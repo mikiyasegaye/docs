@@ -1,6 +1,6 @@
 # ዜማ መቃኛ (Zema Tuner) Privacy Policy
 
-*Effective 17 October 2026 · App package `com.godada.zema`*
+*Effective 17 October 2026 · App package `com.orthodox.zema_mekagna`*
 
 ዜማ መቃኛ tunes the instruments of Ethiopian Orthodox Tewahedo mezmur (begena, kirar, masinko and washint) to their kignet, detects which kignet an instrument is tuned to, and includes a metronome and tap tempo. This policy explains what the app does with your information: nothing leaves your phone.
 
